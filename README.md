@@ -2,6 +2,8 @@
 
 An AI-powered career assistant built with Python, Streamlit, and the OpenRouter API. It helps users review resumes and prepare for career opportunities across computer engineering and technology roles.
 
+## Live Demo: https://careercopilot-ai-20-mm5mswyqqn7cnmav7tdbzn.streamlit.app
+
 ## Features
 
 - Extract text from PDF resumes
